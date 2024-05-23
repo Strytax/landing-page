@@ -1,2 +1,2 @@
-# landing-page
+# flexboxpage
 landing page flexbox demo for odinproject
